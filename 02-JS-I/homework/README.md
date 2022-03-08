@@ -4,8 +4,8 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
+	* Variables = "Es un espacio donde se almacena o guarda un valor" 
+	* Strings ="son palabras o grupos de caracteres que deben ir entre comillas"
 	* Funciones (argumentos, `return`)
 	* Declaraciones `if`
 	* Valores booleanos (`true`, `false`)
